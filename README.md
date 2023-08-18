@@ -27,4 +27,4 @@ My passion lies in leveraging technology to make a positive impact on the world.
 
 Feel free to reach out if you're interested in collaborating, discussing exciting projects, or simply connecting. Let's work together to create something exceptional!
 
-Connect with me on [LinkedIn]([(https://www.linkedin.com/in/soham-shinde-562b51286)]) for more updates and insights.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/soham-shinde-562b51286) for more updates and insights.
