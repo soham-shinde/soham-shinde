@@ -1,6 +1,6 @@
-## About Me
-
-Hello! I'm Soham Shinde, a passionate software developer, computer engineering student, and freelancer based in Pune,India. With a strong foundation in both theory and practical application, I'm dedicated to creating innovative solutions that bridge the gap between technology and user needs.
+# 👋 Hello! I'm Soham Shinde, 
+``
+a passionate software developer, computer engineering student, and freelancer based in Pune,India. With a strong foundation in both theory and practical application, I'm dedicated to creating innovative solutions that bridge the gap between technology and user needs.
 
 ### Education
 
